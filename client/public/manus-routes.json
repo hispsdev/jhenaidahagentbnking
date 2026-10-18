@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Jhenaidah Pourshova Bank Asia Agent Banking" },
+    { "path": "/admin", "title": "Agent Banking Admin Dashboard" }
+  ]
+}
